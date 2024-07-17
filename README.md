@@ -66,8 +66,7 @@ The following MongoDB queries correspond to specific tasks:
     $or: [
         { product_color: "indigo" },
         { product_price: 492.00 }
-    ]
-})
+    ]})
 
     ```
 
